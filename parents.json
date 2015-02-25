@@ -1,0 +1,38 @@
+[
+  {
+    "_from": "gameOfThrone/Rickard_Stark",
+    "_to": "gameOfThrone/Eddard_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Rickard_Stark",
+    "_to": "gameOfThrone/Brandon_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Rickard_Stark",
+    "_to": "gameOfThrone/Benjen_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Jon_Snow"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Robb_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Sansa_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Arya_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Bran_Stark"   
+  },
+  {
+    "_from": "gameOfThrone/Eddard_Stark",
+    "_to": "gameOfThrone/Rickon_Stark"   
+  }
+]

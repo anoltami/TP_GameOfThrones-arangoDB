@@ -1,0 +1,286 @@
+[
+  {
+    "name": "Benjen Stark",
+    "_key": "Benjen_Stark",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Jon Snow",
+    "_key": "Jon_Snow",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Brandon Stark",
+    "_key": "Brandon_Stark",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Rickard Stark",
+    "_key": "Rickard_Stark",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Eddard Stark",
+    "_key": "Eddard_Stark",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Catelyn Tully",
+    "_key": "Catelyn_Tully",
+    "gender": "f",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Robb Stark",
+    "_key": "Robb_Stark",
+    "gender": "m",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Sansa Stark",
+    "_key": "Sansa_Stark",
+    "gender": "f",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Arya Stark",
+    "_key": "Arya_Stark",
+    "gender": "f",
+    "loc": [7.01, 2.02]
+  },
+  {
+    "name": "Bran Stark",
+    "_key": "Bran_Stark",
+    "gender": "m"
+  },
+  {
+    "name": "Rickon Stark",
+    "_key": "Rickon_Stark",
+    "gender": "m"
+  },
+  {
+    "name": "Hoster Tully",
+    "_key": "Hoster_Tully",
+    "gender": "m"
+  },
+  {
+    "name": "Minisa Whent",
+    "_key": "Minisa_Whent",
+    "gender": "f"
+  },
+  {
+    "name": "Edmure Tully",
+    "_key": "Edmure_Tully",
+    "gender": "m"
+  },
+  {
+    "name": "Lysa Tully",
+    "_key": "Lysa_Tully",
+    "gender": "f" 
+  },
+    {
+    "name": "Jon Arryn",
+    "_key": "Jon Arryn",
+    "gender": "m"
+  },
+    {
+    "name": "Robert Arryn",
+    "_key": "Robert_Arryn",
+    "gender": "m"
+  },
+  {
+    "name": "Tytos Lannister",
+    "_key": "Tytos_Lannister",
+    "gender": "m"
+  },
+    {
+    "name": "Tywin Lannister",
+    "_key": "Tywin_Lannister",
+    "gender": "m"
+    
+  },
+  {
+    "name": "Joanna Lannister",
+    "_key": "Joanna_Lannister",
+    "gender": "f"
+  },
+  {
+    "name": "Kevan Lannister",
+    "_key": "Kevan_Lannister",
+    "gender": "m"
+  },
+  {
+    "name": "Cersei Lannister",
+    "_key": "Cersei_Lannister",
+    "gender": "f"
+  },
+  {
+    "name": "Jamie Lannister",
+    "_key": "Jamie_Lannister",
+    "gender": "m",
+    "loc": [12.993, 5]
+  },
+  {
+    "name": "Tyrion Lannister",
+    "_key": "Tyrion_Lannister",
+    "gender": "m"
+  },
+  {
+    "name": "Robert Baratheon",
+    "_key": "Robert_Baratheon",
+    "gender": "m",
+    "loc": [13.01, 5]
+  },
+  {
+    "name": "Joffrey_Baratheon",
+    "_key": "Joffrey Baratheon",
+    "gender": "m",
+    "loc": [13, 5.02]
+  },
+  {
+    "name": "Myrcella Baratheon",
+    "_key": "Myrcella_Baratheon",
+    "gender": "f",
+    "loc": [13, 5.001]
+  },
+  {
+    "name": "Tommen Baratheon",
+    "_key": "Tommen_Baratheon",
+    "gender": "m"
+  },
+    {
+    "name": "Lancel Lannister",
+    "_key": "Lancel_Lannister",
+    "gender": "m"
+  },
+  {
+    "name": "Steffon Baratheon",
+    "_key": "Steffon_Baratheon",
+    "gender": "m"
+  },
+  {
+    "name": "Stannis Baratheon",
+    "_key": "Stannis_Baratheon",
+    "gender": "m"
+  },
+  {
+    "name": "Selyse Florent",
+    "_key": "Selyse_Florent",
+    "gender": "f"
+  },
+  {
+    "name": "Shireen Baratheon",
+    "_key": "Shireen_Baratheon",
+    "gender": "f"
+  },
+  {
+    "name": "Renly Baratheon",
+    "_key": "Renly_Baratheon",
+    "gender": "m"
+  },
+  {
+    "name": "Jaehaerys Targaryen",
+    "_key": "Jaehaerys_Targaryen",
+    "gender": "m"
+  },
+  {
+    "name": "Aerys Targaryen",
+    "_key": "Aerys_Targaryen",
+    "gender": "m"
+  },
+  {
+    "name": "Rhaella Targaryen",
+    "_key": "Rhaella_Targaryen",
+    "gender": "f"
+  },
+  {
+    "name": "Rhaegar Targaryen",
+    "_key": "Rhaegar_Targaryen",
+    "gender": "m"
+  },
+  {
+    "name": "Elia Martell",
+    "_key": "Elia_Martell",
+    "gender": "f"
+  },
+  {
+    "name": "Rhaenys Targaryen",
+    "_key": "Rhaenys_Targaryen",
+    "gender": "f"
+  },
+  {
+    "name": "Aegon Targaryen",
+    "_key": "Aegon_Targaryen",
+    "gender": "m"
+  },
+  {
+    "name": "Viserys Targaryen",
+    "_key": "Viserys_Targaryen",
+    "gender": "m"
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "_key": "Daenerys_Targaryen",
+    "gender": "f"
+  },
+  {
+    "name": "Quellon Greyjoy",
+    "_key": "Quellon_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Balon Greyjoy",
+    "_key": "Balon_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Euron Greyjoy",
+    "_key": "Euron_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Victarion Greyjoy",
+    "_key": "Victarion_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Urrigon Greyjoy",
+    "_key": "Urrigon_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Aeron Greyjoy",
+    "_key": "Aeron_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Rodrik Greyjoy",
+    "_key": "Rodrik_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Maron Greyjoy",
+    "_key": "Maron_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Asha Greyjoy",
+    "_key": "Asha_Greyjoy",
+    "gender": "f"
+  },
+  {
+    "name": "Theon Greyjoy",
+    "_key": "Theon_Greyjoy",
+    "gender": "m"
+  },
+  {
+    "name": "Alannys Harlaw",
+    "_key": "Alannys_Harlaw",
+    "gender": "f"
+  }
+]

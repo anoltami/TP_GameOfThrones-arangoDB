@@ -1,0 +1,27 @@
+[
+{
+  "name": "Winterfell",
+  "_key": "Winterfell",
+  "loc": [7, 3]
+},
+{
+  "name": "white Harbor",
+  "_key": "white_Harbor",
+  "loc": [8, 3.5]
+},
+{
+  "name": "Castle Black",
+  "_key": "Castle_Black",
+  "loc": [3, 2.5]
+},
+{
+  "name": "King's Landing",
+  "_key": "King_s_Landing",
+  "loc": [13, 6]
+},
+{
+  "name": "Casterly Rock",
+  "_key": "Casterly_Rock",
+  "loc": [12, 2]
+}
+]
