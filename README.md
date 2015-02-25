@@ -1,4 +1,4 @@
-# TP_GameOfThrones-arangoDB-
+# TP_GameOfThrones-arangoDB
 TP arangoDB avec les personnages de Game Of Thrones. La base de données de personnages s'appelle : `gameOfThrone`. Celle de liens de parenté s'appelle : `bond`.
 
 Commande pour démarrer arango db : `/usr/local/sbin/arangod`
